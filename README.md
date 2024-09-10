@@ -54,6 +54,7 @@ A simple web app for face recognition using Flask. Upload an image and get recog
 - `static/uploads/` – Directory for uploaded images.
 - `models/` – Directory for face embeddings and model files.
 
+
 ## License
 
 MIT License. See the [LICENSE](LICENSE) file for details.
