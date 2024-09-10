@@ -44,7 +44,7 @@ A simple web app for face recognition using Flask. Upload an image and get recog
     python app.py
     ```
 
-    Visit `http://127.0.0.1:5000/` in your browser.
+    for example :Visit `http://127.0.0.1:5000/` in your browser.
 
 ## Project Structure
 
