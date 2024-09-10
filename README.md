@@ -1,9 +1,7 @@
 # Face Recognition App
 
 A simple web app for face recognition using Flask. Upload an image and get recognition results.
-
-<img width="1388" alt="Screen Shot 2024-09-10 at 5 32 56 PM" src="https://github.com/user-attachments/assets/ed010f08-a3a9-4c34-a571-2b8d6ed1b172">
-
+<img width="1147" alt="Screen Shot 2024-09-10 at 5 49 54 PM" src="https://github.com/user-attachments/assets/334cd6f3-e5b4-4e04-9f1a-ccfe49022fe2">
 
 ## Features
 
